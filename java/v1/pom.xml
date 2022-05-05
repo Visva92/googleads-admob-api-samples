@@ -48,7 +48,7 @@
   </dependencies>
   <properties>
     <project.http.version>1.38.0</project.http.version>
-    <project.oauth.version>1.31.0</project.oauth.version>
+    <project.oauth.version>1.33.3</project.oauth.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
